@@ -1,0 +1,15 @@
+.message {
+    /* styles for the message */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .message .sender {
+    /* styles for the sender */
+    font-weight: bold;
+  }
+  
+  .message .text {
+    /* styles for the text */
+  }
+  

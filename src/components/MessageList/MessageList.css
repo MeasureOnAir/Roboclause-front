@@ -1,0 +1,12 @@
+.message-list {
+    /* styles for the message list */
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+  }
+  
+  .message-list .message {
+    /* styles for the messages */
+    margin-bottom: 16px;
+  }
+  
