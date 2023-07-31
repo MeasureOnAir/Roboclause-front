@@ -83,7 +83,7 @@ const App = () => {
                             {message.sources.length > 0 && "Clauses:"}
                                 {message.sources.map((source, index) => 
                                     <div className="tooltip">
-                                    <p style={{margin:5}}>{source.Clause.toFixed(1)}</p>
+                                    <p style={{margin:5}}>{source.Clause}</p>
                                     <span className="tooltiptext">{source.Clause_Name}</span>
                                 </div>
                                 )}
