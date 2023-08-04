@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://44.217.211.113:8000/chat/ask';
+const API_URL = 'http://34.231.113.56:8000/chat/ask';
 
 // const MOCK_DATA = [
 //   "The penalty for the contractor for delay in delivery is an extension of time for completion, subject to Sub-Clause 20.1 [Contractor's Claims].",
